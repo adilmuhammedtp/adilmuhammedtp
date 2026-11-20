@@ -1,16 +1,36 @@
-## Hi there 👋
 
-<!--
-**adilmuhammedtp/adilmuhammedtp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Adil Muhammed TP 👋
 
-Here are some ideas to get you started:
+### BCA Student | Aspiring Cybersecurity Professional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile!
+
+I'm a BCA student interested in technology, cybersecurity and web development. I'm currently exploring new technologies and building my technical skills through learning and projects.
+
+### 🚀 About Me
+- 🎓 BCA Student
+- 🔐 Interested in Cybersecurity
+- 💻 Exploring Web Development
+- 🌱 Currently learning programming and technology
+- ⚽ Football enthusiast
+
+### 🛠️ Areas of Interest
+- Cybersecurity
+- Web Development
+- Programming
+- Computer Networks
+- Technology
+
+### 🎯 My Goals
+- Build practical technical projects
+- Develop cybersecurity knowledge
+- Improve my programming skills
+- Explore real-world technology challenges
+
+### 📫 Connect With Me
+- GitHub: https://github.com/adilmuhammedtp
+- LinkedIn: Add your LinkedIn URL here
+
+---
+
+*Learning, building and improving every day.*
